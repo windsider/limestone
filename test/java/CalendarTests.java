@@ -1,16 +1,14 @@
 import io.appium.java_client.MobileElement;
-import io.appium.java_client.android.AndroidDriver;
-import org.junit.*;
-import org.junit.runner.RunWith;
+import org.junit.FixMethodOrder;
+import org.junit.Ignore;
+import org.junit.Test;
 import org.junit.runners.MethodSorters;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import junitparams.*;
-import java.util.ArrayList;
-import java.util.List;
 
+import java.util.List;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.StringContains.containsString;
 import static org.hamcrest.core.StringStartsWith.startsWith;

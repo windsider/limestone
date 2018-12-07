@@ -1,4 +1,3 @@
-import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.pagefactory.AndroidFindBy;
@@ -58,6 +57,7 @@ public class EventSearch extends PageObject {
         } catch (Throwable f) {
             return false;
         } finally {
+            wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//*[@content-desc='Calendar']")));
             backBt.click();
         }
 
