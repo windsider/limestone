@@ -23,6 +23,14 @@ Application under test: native Google calendar provided by the emulator
 
 launch virtual device in Android Studio
 
+login in Google account
+
+start Google calendar
+
+walk through the guidance screens manually
+
+close the calendar
+
 pull the project from the repository
 
 launch cmd in project root directory
