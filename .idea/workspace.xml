@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f1307ee-8555-49ad-8999-294590c081c9" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Appium.iml" afterPath="$PROJECT_DIR$/Appium.iml" />
-      <change beforePath="$PROJECT_DIR$/Limestone_Appium.iml" afterPath="$PROJECT_DIR$/Limestone_Appium.iml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/EventSearch.class" afterPath="$PROJECT_DIR$/target/test-classes/EventSearch.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -78,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EventSearch.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EventSearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/EventSearch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-17">
               <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -115,16 +118,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseSet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/BaseSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -180,7 +173,6 @@
         <option value="$PROJECT_DIR$/src/test/java/LaunchCalendar.java" />
         <option value="$PROJECT_DIR$/src/test/java/PageObject.java" />
         <option value="$PROJECT_DIR$/src/test/java/BaseSet.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/CalendarTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/EventDisplayingWeek.java" />
@@ -191,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/test/java/SetReminder.java" />
         <option value="$PROJECT_DIR$/src/test/java/TurnOffEvent.java" />
         <option value="$PROJECT_DIR$/src/test/java/TurnOffReminders.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -531,8 +524,8 @@
     <history-entry file="CalendarTests - 2018.12.10 at 12h 06m 36s.xml">
       <configuration name="CalendarTests" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="CalendarTests_test2_setReminder - 2018.12.07 at 19h 42m 37s.xml">
-      <configuration name="CalendarTests.test2_setReminder" configurationId="JUnit" />
+    <history-entry file="CalendarTests - 2018.12.10 at 12h 13m 41s.xml">
+      <configuration name="CalendarTests" configurationId="AndroidJUnit" />
     </history-entry>
     <history-entry file="CalendarTests_test2_setReminder - 2018.12.07 at 19h 44m 58s.xml">
       <configuration name="CalendarTests.test2_setReminder" configurationId="JUnit" />
@@ -846,14 +839,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="119" column="10" lean-forward="false" selection-start-line="119" selection-start-column="10" selection-end-line="119" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -950,6 +935,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
           <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding />
         </state>
       </provider>
