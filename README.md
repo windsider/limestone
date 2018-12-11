@@ -19,7 +19,9 @@ Virtual Device: Pixel XL API27, Resolution 1440 x 2560: 560dpi, OS Android 8.1 (
 Application under test: native Google calendar provided by the emulator
 
 
-#How to run tests
+# How to run tests
+
+launch Appium server
 
 launch virtual device in Android Studio
 
